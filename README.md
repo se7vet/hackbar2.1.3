@@ -2,7 +2,7 @@
 firefox hackbar收费前的残留版本</br>
 使用方法</br>
 打开firefox的插件目录</br>
-![Image text](https://github.com/HCTYMFF/hackbar2.1.3/blob/master/img/1.png)
+![Image text](./img/1.png)
 
 然后点这里
 </br>
@@ -17,6 +17,7 @@ firefox hackbar收费前的残留版本</br>
 ![Image text](https://github.com/HCTYMFF/hackbar2.1.3/blob/master/img/111.png)
 
 
+# 关闭插件自动更新
 
 
 
